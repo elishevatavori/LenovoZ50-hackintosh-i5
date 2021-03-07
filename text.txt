@@ -1,0 +1,14 @@
+Hello , firstly its not an fully functional EFI . Its enough to boot .
+
+Works:
+Wifi
+Blueooth
+Brightness
+Volume Hotkeys
+Fn keys
+Intel HD Graphics (Patched)
+All usb ports
+
+Not Works:
+Battery(It could be fixed with ssdt's)
+Nvidia GPU
